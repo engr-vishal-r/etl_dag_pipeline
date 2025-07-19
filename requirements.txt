@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+cryptography
+confluent_kafka
+pymysql
+apache-airflow
