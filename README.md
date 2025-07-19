@@ -15,6 +15,7 @@ etl_project/
 ├── .env                          # Environment variables (not committed)
 ├── wrapper_script.sh             # Script triggered by Airflow to run the ETL
 ├── extract/                      # Output directory for CSV files
+└── requirements.txt              # Python dependencies
 
 
 🔁 ETL Workflow
